@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 1668 >>
+stream
+BT
+/F1 16 Tf 1 0 0 1 56 790 Tm (Edge Federated Learning Study) Tj
+/F1 11 Tf 1 0 0 1 56 766 Tm () Tj
+/F1 11 Tf 1 0 0 1 56 751 Tm (Abstract. This thesis studies federated learning when participating edge devices differ) Tj
+/F1 11 Tf 1 0 0 1 56 736 Tm (widely in compute, memory and data distribution. We propose an adaptive client selection) Tj
+/F1 11 Tf 1 0 0 1 56 721 Tm (scheme combined with per-layer differential privacy noise, and show that it reduces) Tj
+/F1 11 Tf 1 0 0 1 56 706 Tm (communication rounds while bounding privacy loss on non-IID benchmarks.) Tj
+/F1 11 Tf 1 0 0 1 56 691 Tm () Tj
+/F1 11 Tf 1 0 0 1 56 676 Tm (Federated optimisation on phones and gateways suffers from stragglers whose local epochs) Tj
+/F1 11 Tf 1 0 0 1 56 661 Tm (finish long after the aggregation deadline. Our scheduler estimates each device budget) Tj
+/F1 11 Tf 1 0 0 1 56 646 Tm (from recent round latencies and assigns proportional workloads.) Tj
+/F1 11 Tf 1 0 0 1 56 631 Tm () Tj
+/F1 11 Tf 1 0 0 1 56 616 Tm (Gaussian noise calibrated per layer keeps the privacy accountant within epsilon of four) Tj
+/F1 11 Tf 1 0 0 1 56 601 Tm (while losing under two points of accuracy on FEMNIST and Shakespeare. Ablations isolate) Tj
+/F1 11 Tf 1 0 0 1 56 586 Tm (the contribution of momentum correction at the server.) Tj
+/F1 11 Tf 1 0 0 1 56 571 Tm () Tj
+/F1 11 Tf 1 0 0 1 56 556 Tm (A deployment across forty Raspberry Pi nodes in the campus laboratory confirms the) Tj
+/F1 11 Tf 1 0 0 1 56 541 Tm (simulated speedups and exposes energy constraints that motivate the final chapter on) Tj
+/F1 11 Tf 1 0 0 1 56 526 Tm (battery-aware participation.) Tj
+/F1 11 Tf 1 0 0 1 56 511 Tm () Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000001905 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2031
+%%EOF

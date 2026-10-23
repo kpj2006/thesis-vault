@@ -1,0 +1,25 @@
+{
+  "name": "thesis-vault",
+  "version": "1.0.0",
+  "description": "Thesis Vault: web-based digital thesis archive and management system (CS314, Team T054, LNMIIT)",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "seed": "node --disable-warning=ExperimentalWarning server/db/seed.js",
+    "reset": "node --disable-warning=ExperimentalWarning server/db/seed.js --reset",
+    "test": "node --disable-warning=ExperimentalWarning --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.5.0",
+    "unpdf": "^1.9.1"
+  }
+}

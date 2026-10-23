@@ -1,0 +1,45 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 989 >>
+stream
+BT
+/F1 16 Tf 1 0 0 1 56 790 Tm (Explainable Anomaly Detection in Hospital Supply Chains) Tj
+/F1 11 Tf 1 0 0 1 56 766 Tm () Tj
+/F1 11 Tf 1 0 0 1 56 751 Tm (Abstract. Hospital supply chains in tier two Indian cities face stock-outs of essential) Tj
+/F1 11 Tf 1 0 0 1 56 736 Tm (drugs that are hard to predict. We combine isolation forests with SHAP explanations so) Tj
+/F1 11 Tf 1 0 0 1 56 721 Tm (pharmacists can see which suppliers and seasons drive each alert.) Tj
+/F1 11 Tf 1 0 0 1 56 706 Tm () Tj
+/F1 11 Tf 1 0 0 1 56 691 Tm (Twelve months of procurement records from three district hospitals were cleaned and) Tj
+/F1 11 Tf 1 0 0 1 56 676 Tm (aligned to a common drug formulary before modelling.) Tj
+/F1 11 Tf 1 0 0 1 56 661 Tm () Tj
+/F1 11 Tf 1 0 0 1 56 646 Tm (Pharmacists rated eighty-one percent of the explanations as useful, and the alert) Tj
+/F1 11 Tf 1 0 0 1 56 631 Tm (precision at the top fifty anomalies reached zero point seven four.) Tj
+/F1 11 Tf 1 0 0 1 56 616 Tm () Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000001225 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1351
+%%EOF
